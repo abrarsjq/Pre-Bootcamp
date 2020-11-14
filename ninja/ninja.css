@@ -1,0 +1,72 @@
+#ghost {
+        width: 40px;
+        display: inline-block;
+        background: black;
+        background-image: url("bluey.gif");
+        background-size: contain;
+        position: absolute;
+        left: 720px;
+        top: 760px;
+  }
+  
+  * {
+        margin: 0;
+        padding: 0;
+        height: 40px;
+  }
+  
+  .onigiri {
+        width: 40px;
+        display: inline-block;
+        background: black;
+        background-image: url("onigiri.png");
+        background-size: contain;
+  }
+  
+  body {
+        background-image: url("sushi.png")
+  }
+  
+  .row {
+        line-height: 0px;
+  }
+  
+  .wall {
+        background-color: blue;
+        width: 40px;
+        display: inline-block;
+  }
+  
+  .sushi {
+        width: 40px;
+        display: inline-block;
+        background: black;
+        background-image: url("sushi.png");
+        background-size: contain;
+  }
+  
+  #score {
+        width: 40px;
+        display: inline-block;
+  }
+  
+  .blank {
+        width: 40px;
+        display: inline-block;
+        background: black;
+  }
+  
+  #ninjaman {
+        width: 40px;
+        display: inline-block;
+        background: black;
+        background-image: url("ninja.gif");
+        background-size: contain;
+        position: absolute;
+        left: 40px;
+        top: 80px;
+  }
+  
+  span {
+        margin-right: 40px;
+  }
