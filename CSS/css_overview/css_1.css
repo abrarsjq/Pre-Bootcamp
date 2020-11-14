@@ -1,0 +1,20 @@
+p{
+	color:black;
+}
+#important{
+	font-size:36px;
+}
+.info{
+	background-color: gray;
+	border:1px solid black;
+	/*overflow: scroll;*/
+	border-right: 1px groove red (207, 41, 41);
+	display: block;
+}
+h1 span {
+	font-weight: bold;
+	color: blue;
+ }
+h1 div {
+	color: gray;
+} 
